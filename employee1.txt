@@ -1,0 +1,7 @@
+id,name,email,age,city,signup_date
+1,John Doe,john.doe@email.com,28,New York,2024-01-15
+2,Jane Smith,jane.smith@email.com,34,Los Angeles,2023-11-02
+3,Michael Brown,michael.brown@email.com,45,Chicago,2022-06-20
+4,Emily Davis,emily.davis@email.com,22,Houston,2024-03-08
+5,Daniel Wilson,daniel.wilson@email.com,39,Phoenix,2021-09-30
+6,Daniel Wilson,daniel.wilson@email.com,39,Phoenix,2021-09-30
